@@ -1,0 +1,34 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "eeprom.h": "c",
+    "htr3236.h": "c",
+    "ir_nec_encoder.h": "c",
+    "stdint.h": "c",
+    "freertos.h": "c",
+    "i2c_master.h": "c",
+    "pcnt.h": "c",
+    "step_motor.h": "c",
+    "queue.h": "c",
+    "sgp40_sht40.h": "c",
+    "sgp40_voc_index.h": "c",
+    "math.h": "c",
+    "my_i2c_master.h": "c",
+    "htr3218.h": "c",
+    "74hc595.h": "c",
+    "my_uart.h": "c",
+    "my_adc.h": "c",
+    "format": "c",
+    "soc_caps.h": "c",
+    "adc_cali_scheme.h": "c",
+    "uart.h": "c",
+    "my_gptimer.h": "c",
+    "array": "c"
+  },
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ]
+}
